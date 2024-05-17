@@ -127,7 +127,7 @@ public class Main {
                             break;
                         }
                     case 10:
-
+                        System.out.println("Not implemented yet");
                         break;
                     default:
                         System.out.println("Se introdujo un valor incorrecto o desconocido!");
